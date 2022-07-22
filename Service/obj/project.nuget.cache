@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+fIEaPS9udZwLvq/2KHrGMWr8tW664iixXJj4Hv0iJQRUa5q90L9zV8trPeB1XQxmvYZ9ogWLXGZLl63PlQukg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin-s\\Desktop\\JustCoding\\NotificationService\\Service\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin-s\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin-s\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin-s\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
